@@ -1,0 +1,4 @@
+.a {
+  composes: b from './b.css';
+  display: flex;
+}
